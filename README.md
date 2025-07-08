@@ -8,10 +8,11 @@ Each program is focused on a simple concept like variables, input/output, condit
 | Filename            | Description                          |
 |---------------------|--------------------------------------|
 | average.cpp         | Calculates the average of three numbers |
-| hello.cpp           | Prints "Hello, World!" on the screen |
-| max-of-two.cpp      | Finds the maximum of two numbers     |
-| even-odd.cpp        | Checks if a number is even or odd    |
-| simple-calculator.cpp | A basic calculator using switch-case |
+| age_converter.cpp           | Converts age in years to days, hours, minutes, and seconds. |
+| even_numbers_in_range.cpp      | Prints even numbers between two integers.   |
+| gcd.cpp        | Finds the greatest common divisor (GCD) of two numbers.   |
+| max_of_three.cpp | Finds the largest among three numbers. |
+| rectangle_recursive.cpp | Calculates area and perimeter of a rectangle using recursive functions. |
  
 > More exercises will be added regularly.
  
