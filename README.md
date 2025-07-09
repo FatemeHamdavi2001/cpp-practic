@@ -13,6 +13,8 @@ Each program is focused on a simple concept like variables, input/output, condit
 | gcd.cpp        | Finds the greatest common divisor (GCD) of two numbers.   |
 | max_of_three.cpp | Finds the largest among three numbers. |
 | rectangle_recursive.cpp | Calculates area and perimeter of a rectangle using recursive functions. |
+| factorial_compare.cpp | Calculates factorial of a number using both loop and recursion methods. Great for understanding iterative vs recursive logic. |
+
  
 > More exercises will be added regularly.
  
