@@ -14,6 +14,10 @@ Each program is focused on a simple concept like variables, input/output, condit
 | max_of_three.cpp | Finds the largest among three numbers. |
 | rectangle_recursive.cpp | Calculates area and perimeter of a rectangle using recursive functions. |
 | factorial_compare.cpp | Calculates factorial of a number using both loop and recursion methods. Great for understanding iterative vs recursive logic. |
+| factorial_compare.cpp    | Calculates factorial of a number using both loop and recursion methods. Great for understanding iterative vs recursive logic. |
+| power_function.cpp       | Calculates a raised to the power of b using a loop.               |
+| prime_check.cpp          | Checks if a number is prime using a boolean function.             |
+| lcm_calculator.cpp       | Calculates the Least Common Multiple (LCM) using GCD helper.      |
 
  
 > More exercises will be added regularly.
