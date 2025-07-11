@@ -18,6 +18,9 @@ Each program is focused on a simple concept like variables, input/output, condit
 | power_function.cpp       | Calculates a raised to the power of b using a loop.               |
 | prime_check.cpp          | Checks if a number is prime using a boolean function.             |
 | lcm_calculator.cpp       | Calculates the Least Common Multiple (LCM) using GCD helper.      |
+| CheckDigitSumEven.cpp        | Checks whether the sum of digits of a number is even.         |
+| CountPrimeInRange.cpp        | Counts how many prime numbers exist between two given numbers.|
+| ReverseAndCheckPalindrome.cpp| Reverses a number and checks if it's a palindrome.            |
 
  
 > More exercises will be added regularly.
