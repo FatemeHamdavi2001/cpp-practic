@@ -1,9 +1,9 @@
-#C++ Basics Practice
+## C++ Basics Practice
  
 This repository contains basic practice programs written in C++.
 Each program is focused on a simple concept like variables, input/output, conditionals, loops, and functions.
  
-#What’s inside?
+## What’s inside?
  
 | Filename            | Description                          |
 |---------------------|--------------------------------------|
@@ -21,20 +21,23 @@ Each program is focused on a simple concept like variables, input/output, condit
 | CheckDigitSumEven.cpp        | Checks whether the sum of digits of a number is even.         |
 | CountPrimeInRange.cpp        | Counts how many prime numbers exist between two given numbers.|
 | ReverseAndCheckPalindrome.cpp| Reverses a number and checks if it's a palindrome.            |
+| FindMaxInArray.cpp       | Gets 5 numbers from the user and finds the largest one using a simple loop. Focuses on array traversal and conditional logic. |
+| SumAndAverage.cpp        | Calculates the sum and average of numbers stored in an array. Separates input, processing, and output logic into functions.   |
+| CountEvenOdd.cpp         | Counts how many even and odd numbers exist in a fixed-size array. Demonstrates modular design and use of conditional operators.|
 
  
 > More exercises will be added regularly.
  
-#Goals
+## Goals
  
 - Practice core C++ syntax
 - Strengthen understanding of basic programming logic
 - Build a strong foundation for advanced topics
  
-#Language
+## Language
  
 - **C++ (ISO C++17)**
  
-#Author
+## Author
  
 Fatemeh Hamdavi
