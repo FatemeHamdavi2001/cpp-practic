@@ -24,6 +24,10 @@ Each program is focused on a simple concept like variables, input/output, condit
 | FindMaxInArray.cpp       | Gets 5 numbers from the user and finds the largest one using a simple loop. Focuses on array traversal and conditional logic. |
 | SumAndAverage.cpp        | Calculates the sum and average of numbers stored in an array. Separates input, processing, and output logic into functions.   |
 | CountEvenOdd.cpp         | Counts how many even and odd numbers exist in a fixed-size array. Demonstrates modular design and use of conditional operators.|
+| FindMinInArray.cpp        | Gets 6 numbers from user and finds the smallest one using a simple comparison loop. Focuses on array traversal and minimum logic. |
+| SearchNumberInArray.cpp   | Stores 7 integers in an array and uses a boolean function to check if a given number exists. Demonstrates linear search logic. |
+| CountPositiveNegative.cpp | Reads 10 numbers and counts how many are positive or negative using two separate functions. Reinforces conditional logic and counting technique. |
+| FindMostFrequent.cpp      | Gets 10 integers and finds the most frequently occurring number using a frequency array. Focuses on histogram logic and nested loops. |
 
  
 > More exercises will be added regularly.
