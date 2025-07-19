@@ -24,6 +24,14 @@ int main()
     int n;
     std::cout << "Enter a number: ";
     std::cin >> n;
+
+    //Check input validity
+    if (std::cin.fail())
+    {
+        std::cout << "Invalid input! Please enter a valid integer.\n";
+        return 1;
+    }
+    
     //check if the number is a palindrome
     if(isPalindrome(n))
     {
