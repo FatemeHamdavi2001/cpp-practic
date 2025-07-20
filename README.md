@@ -28,6 +28,10 @@ Each program is focused on a simple concept like variables, input/output, condit
 | SearchNumberInArray.cpp   | Stores 7 integers in an array and uses a boolean function to check if a given number exists. Demonstrates linear search logic. |
 | CountPositiveNegative.cpp | Reads 10 numbers and counts how many are positive or negative using two separate functions. Reinforces conditional logic and counting technique. |
 | FindMostFrequent.cpp      | Gets 10 integers and finds the most frequently occurring number using a frequency array. Focuses on histogram logic and nested loops. |
+| SumMatrix.cpp         | Calculates the total sum of a 3x3 matrix elements using a function. |
+| FindMaxInMatrix.cpp   | Finds the largest element in a 3x3 matrix using nested loops.        |
+| RowSum.cpp            | Prints the sum of each row in a 3x3 matrix using a separate function.|
+| TransposeMatrix.cpp   | Calculates and displays the transpose of a 3x3 matrix.               |
 
  
 > More exercises will be added regularly.
