@@ -32,6 +32,10 @@ Each program is focused on a simple concept like variables, input/output, condit
 | FindMaxInMatrix.cpp   | Finds the largest element in a 3x3 matrix using nested loops.        |
 | RowSum.cpp            | Prints the sum of each row in a 3x3 matrix using a separate function.|
 | TransposeMatrix.cpp   | Calculates and displays the transpose of a 3x3 matrix.               |
+| CountOddInMatrix.cpp       | Counts how many odd numbers exist in a 3x3 matrix. Uses conditional logic on 2D arrays.             |
+| IsDiagonalMatrix.cpp       | Checks if a 3x3 matrix is diagonal (non-diagonal elements must be 0). Reinforces nested loops + logic. |
+| SumMainDiagonal.cpp        | Calculates the sum of the main diagonal in a 3x3 matrix. Focuses on indices where row == column.       |
+| SumSecondaryDiagonal.cpp   | Calculates the sum of the secondary (reverse) diagonal. Uses row + column == size - 1 condition.        |
 
  
 > More exercises will be added regularly.
