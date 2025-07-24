@@ -36,14 +36,22 @@ Each program is focused on a simple concept like variables, input/output, condit
 | IsDiagonalMatrix.cpp       | Checks if a 3x3 matrix is diagonal (non-diagonal elements must be 0). Reinforces nested loops + logic. |
 | SumMainDiagonal.cpp        | Calculates the sum of the main diagonal in a 3x3 matrix. Focuses on indices where row == column.       |
 | SumSecondaryDiagonal.cpp   | Calculates the sum of the secondary (reverse) diagonal. Uses row + column == size - 1 condition.        |
-| StringLength.cpp  | Count characters in a string  . Loops through each character to count the total length without using `length()` directly. |
-| ReverseString.cpp | Reverse a string     Uses loop from end to start to build the reversed string manually. |
-| CountVowels.cpp   | Count vowels in a string      Checks each character with `if` for all vowels (a, e, i, o, u - both cases). |
-| IsPalindrome.cpp  | Check if string is a palindrome    Compares original and reversed strings to check if they match. |
-| FindWord.cpp      | Check if a word exists in sentence    Uses `find()` to locate a word inside a full sentence. |
-| ReplaceWord.cpp   | Replace word in sentence          Finds the target word and replaces it with another using `find()` + `erase()` + `insert()`. |
-| SplitWords.cpp    | Split sentence into words          Uses `istringstream` to extract words one by one from sentence. |
-| RemoveSpaces.cpp  | Remove all spaces from a string       Loops through each character and skips spaces to build a compact string. |
+| StringLength.cpp  | Loops through each character to count the total length without using `length()` directly. |
+| ReverseString.cpp | Uses loop from end to start to build the reversed string manually. |
+| CountVowels.cpp   | Checks each character with `if` for all vowels (a, e, i, o, u - both cases). |
+| IsPalindrome.cpp  | Compares original and reversed strings to check if they match. |
+| FindWord.cpp      | Uses `find()` to locate a word inside a full sentence. |
+| ReplaceWord.cpp   | Finds the target word and replaces it with another using `find()` + `erase()` + `insert()`. |
+| SplitWords.cpp    | Uses `istringstream` to extract words one by one from sentence. |
+| RemoveSpaces.cpp  | Loops through each character and skips spaces to build a compact string. |
+| WordPosition.cpp       | Finds the index of the first occurrence of a word in a sentence using `find()`. |
+| ExtractDomain.cpp      | Extracts the domain part of an email (after `@`) using `find()` and `substr()`. |
+| ReplaceSubstring.cpp   | Replaces all occurrences of a word in a sentence using `find()` and `replace()`. |
+| ShortenSentence.cpp    | Cuts a sentence if it's longer than a limit using `length()` and `substr()`. |
+| RemoveWord.cpp         | Removes all instances of a word in a sentence using `find()` and `erase()`. |
+| SwapWords.cpp          | Swaps two words in a sentence using `find()`, `substr()`, and `replace()`. |
+| CountWords.cpp         | Counts the number of words in a sentence using either `istringstream` or space counting. |
+| AbbreviateName.cpp     | Prints initials (like `F. H.`) from a full name using `substr()` and `toupper()`. |
 
 
  
