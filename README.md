@@ -52,7 +52,14 @@ Each program is focused on a simple concept like variables, input/output, condit
 | SwapWords.cpp          | Swaps two words in a sentence using `find()`, `substr()`, and `replace()`. |
 | CountWords.cpp         | Counts the number of words in a sentence using either `istringstream` or space counting. |
 | AbbreviateName.cpp     | Prints initials (like `F. H.`) from a full name using `substr()` and `toupper()`. |
-
+| CompareStrings.cpp     | Compare two strings using == and compare() functions. |
+| ConcatenateStrings.cpp | Concatenate two strings using + operator and append() method. |
+| StringToNumber.cpp     | Convert a string to an integer or floating-point number using stoi and stof. |
+| NumberToString.cpp     | Convert a number to a string using to_string and use it in output. |
+| CheckPrefix.cpp        | Check if a string starts with a specific prefix.    |
+| CheckSuffix.cpp        | Check if a string ends with a specific suffix.      |
+| SmartSearch.cpp        | Search for a specific word within a sentence using find(). |
+| EmailValidator.cpp     | Validate email format by checking the presence of '@' and '.' characters. |
 
  
 > More exercises will be added regularly.
